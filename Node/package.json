@@ -1,0 +1,11 @@
+{
+  "name": "node",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "node ./webserver/test/sql.js"
+  },
+  "author": "",
+  "license": "ISC"
+}
